@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jefferson Pedro, graduated in electrical engineering and master's degree in civil engineering 
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML, CSS, Java Script, Node.js, React
+- 🌱 HTML, CSS, Java Script, Node.js, React
 - 📫 How to reach me jeffersonpedro300@gmail.com
 
 <!---
